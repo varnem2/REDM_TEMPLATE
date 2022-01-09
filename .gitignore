@@ -1,0 +1,4 @@
+cache/**
+resources/[base]/**
+resources\[base]\**
+.env
